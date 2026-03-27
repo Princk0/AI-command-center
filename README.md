@@ -1,4 +1,4 @@
-# AI-command-center
+# Rutz AI-command-center
 
 An intelligent IoT command center that turns a Raspberry Pi into an AI-managed edge node. A Claude-powered agent orchestrates device monitoring, process management, and system control through natural language — demonstrating MCP-style tool-use architecture on real hardware.
 
@@ -58,7 +58,7 @@ ai-command-center/
 - Raspberry Pi (any model) with Raspbian OS and SSH enabled
 - Python 3.11+ on both Pi and laptop
 - Node.js 18+ (for frontend)
-- Anthropic API key — get one at https://console.anthropic.com
+- AI API key — get one at https://console.anthropic.com
 
 ### 1. Set Up the Pi Agent
 
